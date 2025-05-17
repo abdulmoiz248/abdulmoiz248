@@ -86,7 +86,7 @@ I'm a passionate developer who thrives on solving complex problems and building 
 ## 🏆 Coding Activity
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abdulmoiz248?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/abdul248?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ## 🔗 Connect With Me
@@ -95,7 +95,7 @@ I'm a passionate developer who thrives on solving complex problems and building 
   <p>
     <a href="https://abdul-moiz-b419.vercel.app/" target="_blank">🌐 Portfolio</a> •
     <a href="https://www.linkedin.com/in/abdul-moiz-170222246/" target="_blank">💼 LinkedIn</a> •
-    <a href="https://leetcode.com/abdulmoiz248/" target="_blank">🧩 LeetCode</a> •
+    <a href="https://leetcode.com/abdul248/" target="_blank">🧩 LeetCode</a> •
     <a href="https://www.instagram.com/_abdul__moiz_/" target="_blank">📸 Instagram</a>
   </p>
 </div>
