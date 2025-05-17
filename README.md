@@ -45,7 +45,7 @@ I'm a passionate developer who thrives on solving complex problems and building 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmoiz248&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul248&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
